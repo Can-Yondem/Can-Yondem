@@ -1,24 +1,8 @@
-### Hi there 👋
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## Hi there, I'm Onur Can Yöndem 👋 
 
 - 🔭 I am a frontend developer. 
-- 💬 If you want to reach me at my e-mail address, can.yondem.22@gmail.com.
-- 💻 You can view the projects I have developed at the https://github.com/Can-Yondem.
+- 💬 Ask me a question 👉 can.yondem.22@gmail.com.
+- 💻 If you want to review my projects 👉 https://github.com/Can-Yondem.
 
 ### Connect with me:
 
