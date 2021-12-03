@@ -1,8 +1,8 @@
 ## Hi there, I'm Onur Can Yöndem 👋 
 
 - 🔭 I am a frontend developer. 
-- 💬 Ask me a question 👉 can.yondem.22@gmail.com.
-- 💻 If you want to review my projects 👉 https://github.com/Can-Yondem.
+- 💬 Ask me a question 👉 can.yondem.22@gmail.com
+- 💻 If you want to review my projects 👉 https://github.com/Can-Yondem
 
 ### Connect with me:
 
