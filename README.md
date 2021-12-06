@@ -1,6 +1,6 @@
 ## Hi there, I'm Onur Can Yöndem 👋 
 
-- 🔭 I am a frontend developer. 
+- 🔭 I am a QA/Test Engineer. 
 - 💬 Ask me a question 👉 can.yondem.22@gmail.com
 - 💻 If you want to review my projects 👉 https://github.com/Can-Yondem
 
