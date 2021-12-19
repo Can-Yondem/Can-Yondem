@@ -6,7 +6,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Myportfolio" width="32px" src="https://www.svgrepo.com/show/250632/www.svg" />][website]
 [<img align="left" alt="LinkedIn" width="32px" src="https://www.svgrepo.com/show/75820/linkedin.svg" />][linkedin]
 [<img align="left" alt="Hackerrank" width="32px" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" />][hackerrank]
 
@@ -27,7 +26,6 @@
 [<img align="left" alt="GitHub" width="26px" src="https://www.svgrepo.com/show/217753/github.svg" />][github]
 
 
-[website]: https://portfolio-web-site-chi.vercel.app/en
 [linkedin]: https://www.linkedin.com/in/onur-yondem/
 [hackerrank]: https://www.hackerrank.com/can_yondem_22
 [vscode]: https://code.visualstudio.com/
