@@ -7,7 +7,6 @@
 ### Connect with me:
 
 [<img align="left" alt="LinkedIn" width="32px" src="https://www.svgrepo.com/show/75820/linkedin.svg" />][linkedin]
-[<img align="left" alt="Hackerrank" width="32px" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" />][hackerrank]
 
 <br />
 
