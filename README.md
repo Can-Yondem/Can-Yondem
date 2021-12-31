@@ -15,6 +15,8 @@
 [<img align="left" alt="java" width="40px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" />][java]
 [<img align="left" alt="python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
 [<img align="left" alt="selenium" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" />][selenium]
+[<img align="left" alt="cucumber" width="38px" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/11/cucumber-logo.png" />][cucumber]
+[<img align="left" alt="serenity" width="38px" src="https://avatars.githubusercontent.com/u/9455201?s=280&v=4" />][serenity]
 [<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
 [<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
 [<img align="left" alt="JavaScript" width="32px" src="https://www.svgrepo.com/show/349419/javascript.svg" />][js]
@@ -34,4 +36,6 @@
 [java]: https://www.java.com/
 [python]: https://www.python.org/
 [selenium]: https://www.selenium.dev/
+[cucumber]: https://cucumber.io/
+[serenity]: https://serenity-bdd.github.io/theserenitybook/latest/index.html
 
